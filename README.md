@@ -1,3 +1,8 @@
+## Foreword
+This is a html & css code challenge I get from a course.
+
+The following is the original project details.
+
 ## Project Overview
 
 In this video tutorial, you will build the [Holy Grail](https://en.wikipedia.org/wiki/Holy_grail_(web_design)) CSS Layout using CSS Grid.
